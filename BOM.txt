@@ -1,0 +1,14 @@
+For one kit to do all core labs with:
+
+PART						PRICE (in 2017)
+
+STM32F769I-Discovery 				$60-$90
+MicroUSB cable (Male A to Male Micro B) 	$1
+MicroUSB OTG Cable (Micro A to Female A)	$5
+USB Mouse					$5
+USB Flash Memory Stick (1GB to 2TB, FAT32)	$5
+10k Potentiometer and some wires		$1
+
+TOTAL COST (Excluding shipping)			$76-$106
+
+Having an Analog Discovery board helps make life much more convenient, but one is not strictly necessary.
