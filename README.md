@@ -21,11 +21,11 @@ The repositories are as follows:
 In short, for each build system, the repositories needed are as follows:
 
 **STM32 Workbench (Eclipse-based  IDE)**  
--Documentation  
--Workbench-Labs *(OS-independent; STM32 Workbench install guide is in Lab01)*  
+-References  
+-Workbench-Labs *(OS-independent; STM32 Workbench install guide is in the Lab01 folder AND in References)*  
 
 **Build Scripts**  
--Documentation  
+-References  
 -Scripts-Labs  
 -Scripts-[OS]-Binaries *(pick the one for your OS)*  
 
