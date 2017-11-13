@@ -6,7 +6,7 @@ These repositories contain the necessary code and documentation for progressing 
 
 In order to work through the content of these repositorites, the materials in the file BOM.txt are needed.
 
-This course now also supports Linux, Mac, and Windows, and provided within these repositories are 2 build systems. The first is an Eclipse-based IDE ("STM32 Workbench") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs, and the second is a custom scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts for those who prefer a more minimal environment. As such, one only needs the contents of certain repositories in order to have everything needed software-wise to get started.
+This course now also supports Linux, Mac, and Windows, and provided within these repositories are 2 build systems for each. The first is an Eclipse-based IDE ("STM32 Workbench") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs, and the second is a custom scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts for those who prefer a more minimal environment. As such, one only needs the contents of certain repositories in order to have everything needed software-wise to get started.
 
 The repositories are as follows:
 
@@ -22,7 +22,7 @@ In short, for each build system, the repositories needed are as follows:
 
 **STM32 Workbench (Eclipse-based  IDE)**  
 -Documentation  
--Workbench-Labs *(Install guide is in Lab01)*  
+-Workbench-Labs *(OS-independent; STM32 Workbench install guide is in Lab01)*  
 
 **Build Scripts**  
 -Documentation  
