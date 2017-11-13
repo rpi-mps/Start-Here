@@ -8,7 +8,7 @@ In order to work through the content of these repositorites, the materials in th
 
 The book "Mastering STM32" by Carmine Noviello is extremely highly recommended.
 
-This course now also supports Linux, Mac, and Windows, and provided within these repositories are 2 build systems for each. The first is an Eclipse-based IDE ("STM32 Workbench") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs, and the second is a custom scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts. The build scripts system is meant for those who prefer a more minimal environment and using their own IDE, e.g. vim or Atom, and does not have a live debugger. As such, to get started one only needs the contents of certain repositories hosted here depending on the build system desired.
+This course now also supports Linux, Mac, and Windows, and provided within these repositories are 2 build systems for each. The first is an Eclipse-based IDE ("STM32 Workbench") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs, and the second is a custom scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts. The build scripts system is meant for those who prefer a more minimal environment and using their own IDE, e.g. vim or Atom, and it does not have a live debugger. As such, to get started one only needs the contents of certain repositories hosted here depending on the build system desired.
 
 The repositories are as follows:
 
