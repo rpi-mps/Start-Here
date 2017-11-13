@@ -20,7 +20,7 @@ The repositories are as follows:
 **Scripts-Windows-Binaries** <- Scripts-based build system for Windows  
 **Scripts-Labs** <- The lab folders for the script-based system  
 
-In short, for each build system (you only need one or the other), the repositories to download are as follows:
+In short, for each build system (you only need one of the two), the repositories to download are as follows:
 
 **STM32 Workbench (Eclipse-based  IDE)**  
 -References  
