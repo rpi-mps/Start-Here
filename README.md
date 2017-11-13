@@ -1,6 +1,7 @@
 # Start-Here
 
 What is all this?  
+
 These repositories contain the necessary code and documentation for progressing through the Microprocessor Systems course at Rensselaer Polytechnic Institute (course ECSE-4790). The course is a lab-focused course in which students are to complete in-depth labs in ordered sequence, and it has been newly revamped and updated (as of 2017) to migrate from the venerable 8051 to STM32F7s (specifically STM32F769NI).
 
 In order to work through the content of these repositorites, the materials in the file BOM.txt are needed.
