@@ -22,7 +22,7 @@ The book "Mastering STM32" by Carmine Noviello is extremely highly recommended, 
 
 **Getting Started**
 
-This course supports Linux, Mac, and Windows, and provided within these repositories are two development environments for each. The first is an Eclipse-based IDE ("SysytemWorkbench for STM32") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs. The second is a custom built, scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts. The scripts system is meant for those who prefer a minimalistic environment and using their own IDE, e.g. vim or Atom, but it does not have a live debugger. Depending on the environment desired, you only need the contents of a subset of the repositories hosted here.
+This course supports Linux, Mac, and Windows, and provided within these repositories are two development environments for each. The first is an Eclipse-based IDE ("SystemWorkbench for STM32") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs. The second is a custom built, scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts. The scripts system is meant for those who prefer a minimalistic environment and using their own IDE, e.g. vim or Atom, but it does not have a live debugger. Depending on the environment desired, you only need the contents of a subset of the repositories hosted here.
 
 The repositories needed for each development environment are listed below:
 
@@ -41,7 +41,7 @@ Once downloaded and extracted to a suitable location (avoid spaces in folder nam
 
 After that, you will find the "Before you start" file in the MPS folder, and that's it for setting up this system!
 
-***(1)*** *Ignore the STM32 Workbench install guide.*  
+***(1)*** *Ignore the STM32 Workbench Install and Usage Guide. It does not apply to this environment.*  
 ***(2)*** *Pick the one for your OS.*  
 
 NOTE: It is possible to have both development environments, e.g. if you want the live debugger provided by SystemWorkbench in addition to the flexibility of the compile script system, but this configuration can be particularly annoying to set up. You are on your own if you want to do this.
