@@ -24,7 +24,7 @@ The repositories are as follows:
 - **Scripts-Mac-Binaries** - Scripts-based development environment for Mac  
 - **Scripts-Linux-Binaries** - Scripts-based development environment for Linux  
 
-For each development environment, these are the repositories needed:
+These are the repositories needed for each development environment:
 
 ***SystemWorkbench (Eclipse-based):***  
 - References  
