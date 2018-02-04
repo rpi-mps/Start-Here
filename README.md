@@ -16,23 +16,23 @@ This course supports Linux, Mac, and Windows, and provided within these reposito
 
 The repositories are as follows:
 
-- **Start-Here** - This repo  
-- **References** - Documentation needed (required by all)  
-- **Workbench-Labs** - Clone or download this to use STM32 Workbench  
-- **Scripts-Labs** - The lab folders for the script-based system  
-- **Scripts-Windows-Binaries** - Scripts-based build system for Windows  
-- **Scripts-Mac-Binaries** - Scripts-based build system for Mac  
-- **Scripts-Linux-Binaries** - Scripts-based build system for Linux  
+- **Start-Here** - This repository  
+- **References** - Required documentation  
+- **Workbench-Labs** - The lab folders for use with SystemWorkbench   
+- **Scripts-Labs** - The lab folders for use with the scripts-based system  
+- **Scripts-Windows-Binaries** - Scripts-based development environment for Windows  
+- **Scripts-Mac-Binaries** - Scripts-based development environment for Mac  
+- **Scripts-Linux-Binaries** - Scripts-based development environment for Linux  
 
 For each development environment, these are the repositories needed:
 
-**SystemWorkbench (Eclipse-based)**  
+***SystemWorkbench (Eclipse-based):***  
 - References  
 - Workbench-Labs ***(1)***
 
 ***(1)*** *The STM32 Workbench install guide is in the Lab01 folder and also in References.*  
 
-**Custom Compile Scripts**  
+***Custom Compile Scripts:***  
 - References ***(1)***  
 - Scripts-Labs  
 - Scripts-[OS]-Binaries ***(2)***   
