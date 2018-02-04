@@ -4,7 +4,7 @@ These repositories contain the necessary code and documentation for progressing 
 
 In order to work through the content of these repositorites, the materials in the file BOM.txt are needed. Mac and Linux users should download BOM_LF.txt, as Unix uses different style line-endings/"enter-spaces" from Windows (Windows uses CRLF, while Linux and Mac use LF).  
 
-The book "Mastering STM32" by Carmine Noviello is extremely highly recommended, as it elaborates on topics given only brief treatment in ST Micro's own documentation.  
+The book "Mastering STM32" by Carmine Noviello is extremely highly recommended, as it elaborates on topics that are given only brief treatment in ST Micro's own documentation. It can be bought from Leanpub for $30: https://leanpub.com/mastering-stm32. A nice thing about this book is that, once you own it, there are no silly expiration dates or anything like that: you just buy the PDF and that's it. Note that there is no physical version.
 
 This course also supports Linux, Mac, and Windows, and provided within these repositories are two development environments for each. The first is an Eclipse-based IDE ("SysytemWorkbench for STM32") with a built-in step-by-step debugger and all the bulk that comes with Eclipse-based IDEs. The second is a custom built, scripts-based system that was made by stripping down STM32 Workbench into simple "Compile," "Upload," and "Cleanup" scripts. The scripts system is meant for those preferring a minimalistic environment and using their own IDE, e.g. vim or Atom, but it does not have a live debugger. Depending on the build system desired, you only need the contents of certain repositories hosted here.
 
@@ -22,14 +22,16 @@ For each development environment, the repositories to download are as follows:
 
 **SystemWorkbench (Eclipse-based)**  
 - References  
-- Workbench-Labs *(OS-independent; STM32 Workbench install guide is in the Lab01 folder AND in References)*  
+- Workbench-Labs ***(1)***
+
+***(1)*** *The STM32 Workbench install guide is in the Lab01 folder and also in References.*  
 
 **Custom Compile Scripts**  
-- References *(Ignore the STM32 Workbench install guide)*  
+- References ***(1)***  
 - Scripts-Labs  
-- Scripts-[OS]-Binaries *(pick the one for your OS)*  
+- Scripts-[OS]-Binaries ***(2)***   
 
-*It is possible to have both development environments, e.g. if you want the live debugger provided by SystemWorkbench in addition to the flexibility of the script system, but this configuration can be particularly annoying to set up. You are on your own if you want to do this.*
+***(1)*** *Ignore the STM32 Workbench install guide.*  
+***(2)*** *Pick the one for your OS.*  
 
-The recommended course text is "Mastering STM32" by Carmine Noviello on Leanpub: https://leanpub.com/mastering-stm32  
-The price is $30, and once you own it there are no silly expiration dates or anything like that: you just buy the PDF and that's it. Note that there is no physical version.
+It is possible to have both development environments, e.g. if you want the live debugger provided by SystemWorkbench in addition to the flexibility of the script system, but this configuration can be particularly annoying to set up. You are on your own if you want to do this.
