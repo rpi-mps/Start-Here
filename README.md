@@ -29,8 +29,7 @@ For each development environment, the repositories to download are as follows:
 - Scripts-Labs  
 - Scripts-[OS]-Binaries *(pick the one for your OS)*  
 
-*It is possible to have both development environments, e.g. if you want the live debugger provided by SystemWorkbench in addition to the flexibility of the script system, but this configuration can be particularly annoying to set up. You're on your own if you want to do this.*
+*It is possible to have both development environments, e.g. if you want the live debugger provided by SystemWorkbench in addition to the flexibility of the script system, but this configuration can be particularly annoying to set up. You are on your own if you want to do this.*
 
-The recommended course text is "Mastering STM32" by Carmine Noviello on Leanpub:  
-https://leanpub.com/mastering-stm32  
-It's $30, and once you own it there's no silly expiration dates or anything like that--you just buy the PDF and that's it. Note: There's no physical version.
+The recommended course text is "Mastering STM32" by Carmine Noviello on Leanpub: https://leanpub.com/mastering-stm32  
+The price is $30, and once you own it there are no silly expiration dates or anything like that: you just buy the PDF and that's it. Note that there is no physical version.
