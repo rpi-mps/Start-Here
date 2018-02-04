@@ -24,18 +24,22 @@ The repositories are as follows:
 - **Scripts-Mac-Binaries** - Scripts-based development environment for Mac  
 - **Scripts-Linux-Binaries** - Scripts-based development environment for Linux  
 
+**Getting the Labs and Development Environments***
+
 These are the repositories needed for each development environment:
 
 ***SystemWorkbench (Eclipse-based):***  
 - References  
-- Workbench-Labs ***(1)***
+- Workbench-Labs  
 
-***(1)*** *The STM32 Workbench install guide is in the Lab01 folder and also in References.*  
+The "STM32 Workbench Install and Usage Guide" is located in the Lab01 folder, and a copy of it is also in References.  
 
 ***Custom Compile Scripts:***  
 - References ***(1)***  
 - Scripts-Labs  
 - Scripts-[OS]-Binaries ***(2)***   
+
+The "Before you start" file will be located in the MPS folder, which will be created when you extract the archive containing your OS's compile scripts environment.
 
 ***(1)*** *Ignore the STM32 Workbench install guide.*  
 ***(2)*** *Pick the one for your OS.*  
